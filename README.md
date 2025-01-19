@@ -9,10 +9,8 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
 </div>
     <br />
-    
-<img src="https://greenlivingblogorguk.files.wordpress.com/2020/02/circuit-board-featured.jpg" />
 
-<!--<!--![Gatewaywoo](https://github.com/user-attachments/assets/cff545fe-e4ec-41a3-931f-e02b9e062c72) -->
+![Gatewaywoo](https://github.com/user-attachments/assets/f24b33c9-f1f6-4c0e-9708-61c4d79b0fb3)
 <!-- ABOUT THE PROJECT -->
 # Single Channel Gateway
 ## Raspberry Pi 3 B+ and HopeRF RFM95 Gateway to TTN
